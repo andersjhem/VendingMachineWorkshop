@@ -11,7 +11,7 @@ public class Main {
         System.out.println("\n\n Tryck på vald produkt:"
                 + "\n1: Marabou \t 25Kr"
                 + "\n2: Kakor \t 30Kr"
-                + "\n4: Sour cream chips \t 20"
+                + "\n4: Sour cream chips \t 20kr"
                 + "\n5: Exit ");
         choice = keyboard.nextInt();
         return choice;
